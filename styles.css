@@ -1,0 +1,118 @@
+
+
+
+
+
+
+
+
+
+
+
+
+body{   /*this body section will add styles to the whole page*/
+     background-image: url(images/cfee.jpg); /*This changes the background colour*/
+    text-align: left; /*This piece of code makes all content center in to the middle*/
+    
+} 
+
+
+
+.top{
+    background-color: rgb(0, 0, 0);
+    height: 70px;
+    width: 100%;
+padding-left: 90%;
+}
+
+.l{
+    background-color: rgb(243, 52, 4);
+    height: 400px;
+    width: 48%;
+    float:left;
+    margin-top: 3%;
+}
+
+.m{
+    
+    height: 300px;
+    width: 0%;
+    float: right;
+}
+
+.r{
+    background-color: rgb(221, 161, 210);
+    height: 400px;
+    width: 48%;
+    float: right;
+    margin-top: 3%;
+}
+
+
+
+
+.header{
+background-color: orange;
+width: 100%;
+height: 80px;
+
+}
+.small{
+    background-color: orange;
+    width: 50%;
+    height: 400px;
+    float: left;
+}
+
+
+.smaller{
+    background-color:blue;
+    width: 28.3%;
+    height: 300px;
+    float: left;
+    margin-left: 3.7%;
+    margin-top: 3%;
+}
+
+.box{
+    background-color: aqua;
+    width: 33.3%;
+    height: 500px;
+    float: left;
+}
+
+.box2{
+    background-color: aqua;
+    width: 33.3%;
+    height: 600px;
+    float: left;  
+}
+
+.box3{
+    background-color: aqua;
+    width: 33.3%;
+    height: 850px;
+    float: left;
+}
+
+.helpbox{
+    background-color: rgb(0, 0, 0);
+    width: 8%;
+    height: 1200px;
+    float: left;
+    
+}
+
+.topabout{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    height: 70px;
+    padding-left: 90%;
+    
+}
+.topmenu{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    height: 70px;
+    padding-left: 90%;
+}
